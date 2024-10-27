@@ -1,4 +1,4 @@
-# YouTube_5000_channel_analysis
+# YouTube Channel Performance Analysis - Data Insights with Python
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
